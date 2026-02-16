@@ -1,0 +1,1 @@
+Esse repositório será usado com o fim de armazenar meus códigos realizados no período do primeiro semestre do curso de CCO. Por enquanto o mesmo não terá muitas coisas mas conforme eu aprofunde meus conhecimentos no github eu vou melhorar o repositório.
